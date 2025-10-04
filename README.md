@@ -5,3 +5,4 @@ This is my second change to practice pushing.
 This is my third change
 This is my fourth change
 This is my fifth change 
+This line was added directly on Github.
